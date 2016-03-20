@@ -227,7 +227,7 @@ function create_config( )
     "admin",
     "mame"
     },
-    sudo_users = {164985762,123627901},--Sudo users
+    sudo_users = {164985762,123627901,124651068},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[avast v5 - 
